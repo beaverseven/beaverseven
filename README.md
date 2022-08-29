@@ -4,3 +4,5 @@ My current projects consist of the following:
 - A space-shooting game. (Created using C#)
 - A 2D Platforming game. (Created using C#)
 - A Roblox Game using Lua.
+- A website displaying the effects of COVID-19 on the homeless population.
+- A "template" website displaying what I have learned so far.
